@@ -1,0 +1,41 @@
+@font-face {
+  font-family: IranYekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/IRANYekanLight.ttf");
+}
+
+@font-face {
+  font-family: IranYekan;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/IRANYekanRegular.ttf");
+}
+
+@font-face {
+  font-family: IranYekan;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/IRANYekanMedium.ttf");
+}
+
+@font-face {
+  font-family: IranYekan;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/IRANYekanBold.ttf");
+}
+
+@font-face {
+  font-family: IranYekan;
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/IRANYekanExtraBold.ttf");
+}
+
+@font-face {
+  font-family: IranYekan;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/IRANYekanBlack.ttf");
+}
